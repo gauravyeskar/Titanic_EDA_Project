@@ -127,8 +127,7 @@ Age Group: Passengers between ages 15–50 survived the most
 ------------------------------------------------------------------------------------------------------------
 **💡 Business Recommendations**
 Based on the analysis of the Titanic survival data:
-Emergency evacuation procedures should prioritise vulnerable groups such as infants, children, and elderly passengers
-Equal lifeboat access should be ensured across all passenger classes — not just 1st class
-Passenger safety training should be standardised regardless of ticket class
-Capacity planning should account for family groups as passengers travelling with small families showed higher survival rates
+
+Emergency evacuation procedures should prioritise vulnerable groups such as infants, children, and elderly passengers Equal lifeboat access should be ensured across all passenger classes — not just 1st class
+Passenger safety training should be standardised regardless of ticket class Capacity planning should account for family groups as passengers travelling with small families showed higher survival rates
 Port authorities at Southampton should implement stricter safety checks given the highest passenger volume
